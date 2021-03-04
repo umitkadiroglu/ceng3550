@@ -1,4 +1,4 @@
-pragma solidity ^0.4.21;
+pragma solidity ^0.5.0;
 
 import "./EIP20Interface.sol";
 
@@ -12,7 +12,7 @@ contract F1Token is EIP20Interface{
     uint8 public decimals;
     string public symbol;
 
-    function F1Token() public {
+    constructor() public {
         balances[msg.sender] = 1000000;
         totalSupply = 1000000;
         name = "F1Token";
