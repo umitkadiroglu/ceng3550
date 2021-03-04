@@ -4,7 +4,7 @@
 F1Token, Formula 1 tutkunları için ERC-20 standartıyla oluşturulmuş bir tokendır. Yıl boyunca düzenlenen Formula 1 yarışlarındaki oluşacak sıralamaları doğru tahmin etme oranlarına göre katılımcılara F1Token dağıtılabilir.
 
 # ERC-20 Tokenı nedir?
-2014 yılında Vitalik Buterin tarafından kurulan ve merkeziyetsiz uygulamalar çıkarmak için bir açık kaynak platformu olan Ethereum üzerinde programlama yapabilmek için standartların belirlendiği teknik belgelere ERC (Ethereum Requests for Comments) denir. ERC, uygulamaların ve kontratların birbirleriyle daha kolay etkileşim kurmasını sağlar. <br><br>
+Vitalik Buterin tarafından kurulan ve merkeziyetsiz uygulamalar çıkarmak için bir açık kaynak platformu olan Ethereum üzerinde programlama yapabilmek için standartların belirlendiği teknik belgelere ERC (Ethereum Requests for Comments) denir. ERC, uygulamaların ve kontratların birbirleriyle daha kolay etkileşim kurmasını sağlar. <br><br>
 Tokenların ERC-20 uyumlu olabilmesi için kontratın altı zorunlu fonksiyonu içermesi gerekir: totalSupply (toplam arz), balanceOf (bakiye), transfer (transfer), transferFrom (transferin kaynağı), approve (onay) ve allowance (kalan bakiye).
 
 # Remix IDE kullanarak F1Tokenı oluşturma
