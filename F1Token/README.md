@@ -22,19 +22,19 @@ npm run start
 ```
 Sonu "98F7" ile biten contract sahibi hesap:
 <br><br>
-![1](images/1.png)<br><br>
+<img src="images/1.png" height="500"><br><br>
 
 Ağda bulunan ve sonu "4B5C" ile biten diğer bir hesaba 500,000 F1T gönderme işlemi (solda):
 <br>
 İşlem sonrası kalan bakiye (sağda):
 <br>
 
-![2](images/2.png) | ![3](images/3.png) |
+<img src="images/2.png" height="400"> | <img src="images/3.png" height="400"> |
 --- | --- |
 
 Sonu "4B5C" ile biten ve token gönderilen hesabın bakiyesi:
 <br><br>
-![4](images/4.png)<br><br>
+<img src="images/4.png" height="400"><br><br>
 
 
 
